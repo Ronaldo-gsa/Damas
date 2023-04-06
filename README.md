@@ -10,3 +10,5 @@ O código se baseia em 4 funções que são repetidas dentro de um while, enquan
   -Função "verifica": verifica se o movimento escolhido é válido;
   
   -Função "movimenta": altera a posição das peças na matriz. Obs.: ela chama a função "verifica" antes de fazer o movimento
+  
+  *O código ainda não funciona, mas está quase pronto*
